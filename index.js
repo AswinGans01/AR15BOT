@@ -24,9 +24,9 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    A187: '👾AR15BOT👾',
+    A187: 'Aswin Bot',
     instagram: 'https://instagram.com/_sadboy.ig',
-    nomer: 'wa.me/6285722553839',
+    nomer: 'wa.me/6281440092890',
     aktif: '24 JAM',
     youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg',
     whatsapp: 'https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs',
